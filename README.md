@@ -24,7 +24,7 @@ Follow the journey here — contributions, feedback, and encouragement are all w
 ## 🛠 Current Status
 
 - [x] Repository created
-- [ ] Basic plugin structure in Lua
+- [x] Basic plugin structure in Lua
 - [ ] First working version of custom `foldtext`
 - [ ] Simple function signature detection
 - [ ] Treesitter integration (optional, future)
