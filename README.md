@@ -25,9 +25,13 @@ Follow the journey here — contributions, feedback, and encouragement are all w
 
 - [x] Repository created
 - [x] Basic plugin structure in Lua
-- [ ] First working version of custom `foldtext`
-- [ ] Simple function signature detection
-- [ ] Treesitter integration (optional, future)
+- [x] First working version of custom `foldtext`
+- [x] Simple function signature detection
+- [x] Basic Treesitter integration
+- [ ] Improve Treesitter parsing (handle more node types)
+- [ ] Add configuration options (like custom fold text formats)
+- [ ] Better handling of fillchars and fold formatting
+- [ ] Initial documentation
 
 ---
 
@@ -35,7 +39,7 @@ Follow the journey here — contributions, feedback, and encouragement are all w
 
 I'm documenting every step of this project:
 
-- 📝 [Devlog updates](https://devlog.seifhassan.dev) (coming soon)
+- 📝 [Devlog updates](https://devlog.seifhassan.dev) (live now!)
 - 🐦 [Follow on X.com](https://x.com/theseifhassan) for daily/weekly progress
 
 Expect lots of messy commits, experiments, and learning-by-doing!
